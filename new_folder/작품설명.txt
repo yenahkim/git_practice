@@ -1,0 +1,10 @@
+day 1. 공: 18초, 4K, 24 fps  
+day 2. 걷기: 3초, 4K, 15 fps
+day 3. 런닝머신: 6초, HD, 15 fps
+day 4. 자전거: 7초, HD, 15 fps
+day 5. 스케이트 보드: 7초, HDK, 15 fps
+day 6. 비행기: 10초, HD, 24 fps
+day 7. 모래시계: 3초, HD, 24 fps
+day 8. 등대: 9초, HD, 30 fps
+day 9. 미호 꽃향기: 10초, HD, 15 fps
+day 10. 미호 발걸음: 5초, HD, 24 fps
