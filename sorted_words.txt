@@ -1,0 +1,6 @@
+class
+home
+lecture
+lemon
+new
+school
